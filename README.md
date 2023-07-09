@@ -24,6 +24,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
+![](https://github.com/gilda-prv/QR-code-component/blob/main/design/desktop-design.jpg)
 ### Built with
 
 - HTML5
